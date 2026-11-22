@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local cache data & personal progress (keep static datasets tracked)
+data/cses_progress.json
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/

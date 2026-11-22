@@ -1,0 +1,456 @@
+[
+  {
+    "id": 1633,
+    "name": "Dice Combinations",
+    "category": "Dynamic Programming",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1633"
+  },
+  {
+    "id": 1634,
+    "name": "Minimizing Coins",
+    "category": "Dynamic Programming",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1634"
+  },
+  {
+    "id": 1635,
+    "name": "Coin Combinations I",
+    "category": "Dynamic Programming",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1635"
+  },
+  {
+    "id": 1636,
+    "name": "Coin Combinations II",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1636"
+  },
+  {
+    "id": 1637,
+    "name": "Removing Digits",
+    "category": "Dynamic Programming",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1637"
+  },
+  {
+    "id": 1638,
+    "name": "Grid Paths",
+    "category": "Dynamic Programming",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1638"
+  },
+  {
+    "id": 1158,
+    "name": "Book Shop",
+    "category": "Dynamic Programming",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1158"
+  },
+  {
+    "id": 1745,
+    "name": "Money Sums",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1745"
+  },
+  {
+    "id": 1145,
+    "name": "Increasing Subsequence",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1145"
+  },
+  {
+    "id": 1140,
+    "name": "Projects",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1140"
+  },
+  {
+    "id": 1653,
+    "name": "Elevator Rides",
+    "category": "Dynamic Programming",
+    "difficulty": "Hard",
+    "url": "https://cses.fi/problemset/task/1653"
+  },
+  {
+    "id": 2181,
+    "name": "Counting Tilings",
+    "category": "Dynamic Programming",
+    "difficulty": "Hard",
+    "url": "https://cses.fi/problemset/task/2181"
+  },
+
+  {
+    "id": 1192,
+    "name": "Counting Rooms",
+    "category": "Graph Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1192"
+  },
+  {
+    "id": 1193,
+    "name": "Labyrinth",
+    "category": "Graph Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1193"
+  },
+  {
+    "id": 1666,
+    "name": "Building Roads",
+    "category": "Graph Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1666"
+  },
+  {
+    "id": 1667,
+    "name": "Message Route",
+    "category": "Graph Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1667"
+  },
+  {
+    "id": 1668,
+    "name": "Building Teams",
+    "category": "Graph Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1668"
+  },
+  {
+    "id": 1669,
+    "name": "Round Trip",
+    "category": "Graph Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1669"
+  },
+  {
+    "id": 1671,
+    "name": "Shortest Routes I",
+    "category": "Graph Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1671"
+  },
+  {
+    "id": 1672,
+    "name": "Shortest Routes II",
+    "category": "Graph Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1672"
+  },
+  {
+    "id": 1679,
+    "name": "Course Schedule",
+    "category": "Graph Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1679"
+  },
+  {
+    "id": 1680,
+    "name": "Longest Flight Route",
+    "category": "Graph Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1680"
+  },
+  {
+    "id": 1195,
+    "name": "Flight Discount",
+    "category": "Graph Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1195"
+  },
+  {
+    "id": 1690,
+    "name": "Hamiltonian Flights",
+    "category": "Graph Algorithms",
+    "difficulty": "Hard",
+    "url": "https://cses.fi/problemset/task/1690"
+  },
+  {
+    "id": 1695,
+    "name": "Police Chase",
+    "category": "Graph Algorithms",
+    "difficulty": "Hard",
+    "url": "https://cses.fi/problemset/task/1695"
+  },
+
+  {
+    "id": 1674,
+    "name": "Subordinates",
+    "category": "Tree Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1674"
+  },
+  {
+    "id": 1130,
+    "name": "Tree Matching",
+    "category": "Tree Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1130"
+  },
+  {
+    "id": 1131,
+    "name": "Tree Diameter",
+    "category": "Tree Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1131"
+  },
+  {
+    "id": 1132,
+    "name": "Tree Distances I",
+    "category": "Tree Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1132"
+  },
+  {
+    "id": 1687,
+    "name": "Company Queries I",
+    "category": "Tree Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1687"
+  },
+  {
+    "id": 1688,
+    "name": "Company Queries II",
+    "category": "Tree Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1688"
+  },
+  {
+    "id": 1135,
+    "name": "Distance Queries",
+    "category": "Tree Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1135"
+  },
+  {
+    "id": 1138,
+    "name": "Path Queries",
+    "category": "Tree Algorithms",
+    "difficulty": "Hard",
+    "url": "https://cses.fi/problemset/task/1138"
+  },
+
+  {
+    "id": 1621,
+    "name": "Distinct Numbers",
+    "category": "Sorting and Searching",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1621"
+  },
+  {
+    "id": 1084,
+    "name": "Apartments",
+    "category": "Sorting and Searching",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1084"
+  },
+  {
+    "id": 1090,
+    "name": "Ferris Wheel",
+    "category": "Sorting and Searching",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1090"
+  },
+  {
+    "id": 1091,
+    "name": "Concert Tickets",
+    "category": "Sorting and Searching",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1091"
+  },
+  {
+    "id": 1619,
+    "name": "Restaurant Customers",
+    "category": "Sorting and Searching",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1619"
+  },
+  {
+    "id": 1640,
+    "name": "Sum of Two Values",
+    "category": "Sorting and Searching",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1640"
+  },
+  {
+    "id": 1643,
+    "name": "Maximum Subarray Sum",
+    "category": "Sorting and Searching",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1643"
+  },
+  {
+    "id": 1629,
+    "name": "Movie Festival",
+    "category": "Sorting and Searching",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1629"
+  },
+  {
+    "id": 1641,
+    "name": "Sum of Three Values",
+    "category": "Sorting and Searching",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1641"
+  },
+  {
+    "id": 1620,
+    "name": "Factory Machines",
+    "category": "Sorting and Searching",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1620"
+  },
+  {
+    "id": 1085,
+    "name": "Array Division",
+    "category": "Sorting and Searching",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1085"
+  },
+  {
+    "id": 1644,
+    "name": "Maximum Subarray Sum II",
+    "category": "Sorting and Searching",
+    "difficulty": "Hard",
+    "url": "https://cses.fi/problemset/task/1644"
+  },
+
+  {
+    "id": 1646,
+    "name": "Static Range Sum Queries",
+    "category": "Range Queries",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1646"
+  },
+  {
+    "id": 1647,
+    "name": "Static Range Minimum Queries",
+    "category": "Range Queries",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1647"
+  },
+  {
+    "id": 1648,
+    "name": "Dynamic Range Sum Queries",
+    "category": "Range Queries",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1648"
+  },
+  {
+    "id": 1649,
+    "name": "Dynamic Range Minimum Queries",
+    "category": "Range Queries",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1649"
+  },
+  {
+    "id": 1650,
+    "name": "Range Xor Queries",
+    "category": "Range Queries",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1650"
+  },
+  {
+    "id": 1651,
+    "name": "Range Update Queries",
+    "category": "Range Queries",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1651"
+  },
+  {
+    "id": 1734,
+    "name": "Distinct Values Queries",
+    "category": "Range Queries",
+    "difficulty": "Hard",
+    "url": "https://cses.fi/problemset/task/1734"
+  },
+
+  {
+    "id": 1712,
+    "name": "Exponentiation",
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1712"
+  },
+  {
+    "id": 1713,
+    "name": "Counting Divisors",
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1713"
+  },
+  {
+    "id": 1081,
+    "name": "Common Divisors",
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1081"
+  },
+  {
+    "id": 1082,
+    "name": "Sum of Divisors",
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1082"
+  },
+  {
+    "id": 1715,
+    "name": "Creating Strings II",
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1715"
+  },
+  {
+    "id": 1716,
+    "name": "Distributing Apples",
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1716"
+  },
+  {
+    "id": 1722,
+    "name": "Fibonacci Numbers",
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1722"
+  },
+  {
+    "id": 2185,
+    "name": "Prime Multiples",
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "url": "https://cses.fi/problemset/task/2185"
+  },
+
+  {
+    "id": 1731,
+    "name": "Word Combinations",
+    "category": "String Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1731"
+  },
+  {
+    "id": 1753,
+    "name": "String Matching",
+    "category": "String Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1753"
+  },
+  {
+    "id": 1732,
+    "name": "Finding Borders",
+    "category": "String Algorithms",
+    "difficulty": "Easy",
+    "url": "https://cses.fi/problemset/task/1732"
+  },
+  {
+    "id": 1733,
+    "name": "Finding Periods",
+    "category": "String Algorithms",
+    "difficulty": "Medium",
+    "url": "https://cses.fi/problemset/task/1733"
+  }
+]
